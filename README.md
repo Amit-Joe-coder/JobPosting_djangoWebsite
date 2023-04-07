@@ -10,5 +10,5 @@ project to generate fake data </sub>
 ### Front-End:
 <sub>HTML,Css and Bootstrap</sub>
 ### Database:
-<sub>-Mysql</sub>
+<sub>-Mysqlite(inbuild)</sub>
 
